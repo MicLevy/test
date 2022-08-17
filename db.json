@@ -1,3 +1,32 @@
 {
-  "posts": []
+  "robotStatusNotification":
+  {
+    "userid": "xxxxxxxxxxxxxxx",
+    "msg": "Changing in Progress",
+    "time": "2022-08-16T07:55:14.21",
+    "current_sob": "48",
+    "isCharing": "true",
+    "charging_kw": "22"
+  },
+  "resRequestCharging":
+  {
+    "userid": "xxxxxxxxxxxxxxx",
+    "time": "Changing in Progress",
+    "success": "true"
+  },
+  "resBatteryStatusCR":
+  {
+    "userid": "xxxxxxxxxxxxxxx",
+    "current_sob": "48",
+    "isCharging": "true",
+    "charge_rate": "22",
+    "charging_to": "80",
+    "time": "2022-08-16T07:55:14.21"
+  },
+  "resStopCharging":
+  {
+    "userid": "xxxxxxxxxxxxxxx",
+    "success": "true",
+    "time": "2022-08-16T07:55:14.21"
+  }
 }
